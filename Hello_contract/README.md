@@ -1,0 +1,1 @@
+Smart contract "Hello" records input, outputs the student's name, receives some amount of test ether, outputs the amount of test ether on the smart contract balance, and withdraws the current balance.
